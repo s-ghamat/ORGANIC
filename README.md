@@ -1,94 +1,118 @@
-## **ORGANIC**
+# Organic
 
-### *BUSINESS ENVIRONMENT AS A NETWORK!*
+Organizational analysis project studying Apple and La Poste through a network-based approach.
 
-**EPITECH 2024**
+The project examines how communication flows, hierarchy, decision-making, and organizational structures shape two large-scale companies.
 
----
+## Overview
 
-# Projet : Analyse organisationnelle d’Apple et de LA POSTE
+Organic was developed as part of the Epitech 2024 module **Business Environment as a Network**.
 
-Ce projet vise à étudier l’organisation interne d’**Apple** et de **LA POSTE** en adoptant une approche “réseau” : comprendre **comment l’information circule**, **comment la structure est construite**, et **comment ces organisations pourraient évoluer** face à des changements d’échelle.
+The objective is to compare Apple and La Poste by analyzing their internal organization, communication systems, governance models, and ability to adapt to structural change.
 
----
+## Scope
 
-## Objectifs
+* Communication-flow modeling
+* Organizational chart creation
+* Comparative organizational analysis
+* Network-based business interpretation
+* Change-scenario planning
+* Expansion and downsizing recommendations
+* Visual representation of organizational models
 
-### 1) Modélisation des flux de communication
+## Studied Organizations
 
-Analyser en détail et **représenter visuellement** les flux de communication internes chez Apple et LA POSTE.
+| Organization | Focus                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| Apple        | Global technology company with strong product, design, and innovation structures            |
+| La Poste     | Large public-service and logistics organization with territorial and operational complexity |
 
-L’objectif est d’identifier :
+## Objectives
 
-* comment l’information est partagée,
-* entre quels niveaux (individus, équipes, départements),
-* quels canaux formels et informels structurent les échanges,
-* où se trouvent les points de friction (goulots d’étranglement, silos, dépendances).
+### 1. Communication Flow Analysis
 
-**Livrables attendus :**
+The project studies how information circulates inside each organization.
 
-* schémas des flux (cartes réseau, diagrammes de circulation, matrices de communication)
-* analyse commentée (forces, faiblesses, risques)
+Key points:
 
----
+* Communication between individuals, teams, and departments
+* Formal and informal communication channels
+* Bottlenecks and friction points
+* Silos and dependencies
+* Network maps and communication matrices
 
-### 2) Création et analyse d’organigrammes
+### 2. Organizational Charts
 
-Construire des **organigrammes clairs et précis** pour Apple et LA POSTE afin de décrire leur structure hiérarchique et fonctionnelle.
+The project builds structured organizational charts for Apple and La Poste.
 
-Les organigrammes doivent inclure :
+The analysis includes:
 
-* le **conseil d’administration**,
-* les **grands services** / directions,
-* les **équipes** et unités clés,
-* les rôles essentiels et les liens de dépendance.
+* Board-level structure
+* Main departments and divisions
+* Key operational units
+* Critical roles
+* Hierarchical and functional dependencies
 
-**Livrables attendus :**
+### 3. Comparative Analysis
 
-* 2 organigrammes complets (Apple + LA POSTE)
-* une analyse expliquant : centralisation/décentralisation, niveaux hiérarchiques, zones d’autonomie, rôles critiques
+The project compares both organizations through several dimensions.
 
----
+| Dimension     | Analysis                                                         |
+| ------------- | ---------------------------------------------------------------- |
+| Structure     | Centralized, decentralized, functional, matrix, or network-based |
+| Communication | Internal channels, information speed, bottlenecks                |
+| Governance    | Decision-making and authority distribution                       |
+| Culture       | Innovation, service, stability, adaptability                     |
+| Risk          | Operational, strategic, and organizational risks                 |
+| Evolution     | Capacity to scale, adapt, or restructure                         |
 
-### 3) Comparaison collaborative
+### 4. Organizational Change Scenarios
 
-Réaliser une **analyse comparative** entre Apple et LA POSTE, dans une démarche de travail collaboratif.
+The project explores possible structural changes under two scenarios:
 
-L’objectif est de mettre en évidence :
+* Significant expansion
+* Downsizing or operational reduction
 
-* les **différences** (structure, gouvernance, culture, modes de décision),
-* les **similarités** (processus, coordination, fonctions transverses),
-* les liens avec la **théorie organisationnelle** (formes mécanistes vs organiques, réseau, matrice, etc.),
-* des **insights concrets** sur des pratiques de management efficaces.
+For each scenario, the analysis considers:
 
-**Livrables attendus :**
+* Decision-making impact
+* Structural adaptation
+* Communication-flow evolution
+* Cultural consequences
+* Recommended target organization
 
-* tableau comparatif structuré (ex : structure, communication, décision, culture, innovation, gestion du risque)
-* synthèse interprétative (ce que ça révèle, ce que ça explique)
+## Deliverables
 
----
+| Deliverable                 | Content                                                        |
+| --------------------------- | -------------------------------------------------------------- |
+| Communication-flow diagrams | Network maps, communication diagrams, matrices                 |
+| Organizational charts       | Apple and La Poste hierarchy and structure                     |
+| Comparative table           | Structured comparison between both organizations               |
+| Interpretive synthesis      | Analysis of differences, similarities, and management insights |
+| Change scenarios            | Expansion and downsizing models                                |
+| Recommendations             | Proposed organizational adaptations and justification          |
 
-### 4) Spéculation sur les changements organisationnels
+## Methodology
 
-Proposer des **modèles organisationnels alternatifs** pour Apple et/ou LA POSTE selon différents scénarios :
+The project uses an organizational network approach.
 
-* **Expansion significative** (croissance, internationalisation, nouveaux marchés)
-* **Réduction / downsizing** (contraction, optimisation, recentrage)
+Main analysis angles:
 
-À explorer :
+* Business environment as a network
+* Formal and informal communication
+* Centralization and decentralization
+* Mechanistic and organic structures
+* Matrix and network organizations
+* Organizational resilience
+* Change management
 
-* impacts sur les **processus décisionnels**,
-* adaptations structurelles (équipes, directions, transversalité),
-* évolution des flux de communication,
-* effets potentiels sur la **culture d’entreprise** et les comportements.
+## Academic Context
 
-**Livrables attendus :**
+Project: Organic
+Module: Business Environment as a Network
+School: Epitech
+Year: 2024
 
-* 2 scénarios minimum (expansion + réduction)
-* recommandations structurées (organisation cible + justification)
-* représentation visuelle des modèles proposés
+## Author
 
-
-
-![Capture d'écran 2024-04-04 231852](https://github.com/EpitechMscProPromo2026/T-ORG-600-STG_8/assets/145782254/23302f36-39b2-41ce-8617-543d7e4f8103)
-
+Setayesh Ghamat
